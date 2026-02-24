@@ -2,7 +2,7 @@
 <<info
 
 This Script will let you know if your USER is exist or not
-
+Thi script ill ley you knoow if your user is exist or not
 info
 
 read -p "Enter your username : " username
